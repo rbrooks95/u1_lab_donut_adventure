@@ -189,7 +189,3 @@ Your commit message should read something like: <br>
 - Make a parent class that the hero and enemy can inherit from (maybe call it Denizen)?
 - Randomize the weapon choice in the battle method.
 - Expand this to your heart's content! Sky is the limit!
-
-## Submission Guidelines
-
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-11-8/template_pull_request)
