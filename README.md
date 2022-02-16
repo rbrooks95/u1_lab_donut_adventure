@@ -4,7 +4,7 @@
 
 ## Homework Overview
 
-In this deliverable, you will be practicing object creation, using object methods, and class inheritance.
+In this lab, you will be practicing object creation, using object methods, and class inheritance.
 
 ## Getting Started
 
