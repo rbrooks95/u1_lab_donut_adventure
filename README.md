@@ -177,7 +177,7 @@ Your commit message should read something like: <br>
 
 ---
 
-## Homework Requirements
+## Requirements
 
 1. An `objects.js` file with a hamster class, a person class, and a simulated story about Timmy.
 1. An `adventure.js` file that simulates the daring adventure outlined battle above. 
