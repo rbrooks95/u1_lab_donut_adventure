@@ -2,7 +2,7 @@
 
 ![dancing donut](https://media.giphy.com/media/ToMjGpPgn8mV9iUOOw8/giphy.gif)
 
-## Homework Overview
+## Lab Overview
 
 In this lab, you will be practicing object creation, using object methods, and class inheritance.
 
